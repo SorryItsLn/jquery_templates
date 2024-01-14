@@ -18,6 +18,7 @@ $(document).ready(function () {
             nextImage.fadeIn(1000)
             nextImage.addClass("curry")
         }
+
     });
     $(".prev").click(function(){
     var currentImage = $('.img.curry');
